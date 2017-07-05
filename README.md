@@ -1,4 +1,5 @@
 [PrestaShop module "Faktiva Clean URLs"](https://github.com/faktiva/prestashop-clean-urls)
+
 Quick fix for PS 1.7
 ===
 
