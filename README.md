@@ -1,5 +1,5 @@
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/58d1de4f-45fc-4f63-aeb3-7ddc51d4a64e/small.png)](https://insight.sensiolabs.com/projects/58d1de4f-45fc-4f63-aeb3-7ddc51d4a64e)
 [PrestaShop module "Faktiva Clean URLs"](https://github.com/faktiva/prestashop-clean-urls)
+Quick fix for PS 1.7
 ===
 
 [![GitHub release](https://img.shields.io/github/release/faktiva/prestashop-clean-urls.svg?style=flat&label=latest)](https://github.com/faktiva/prestashop-clean-urls/releases/latest)
@@ -12,7 +12,6 @@
 
 [![Join the chat at https://gitter.im/faktiva/prestashop-clean-urls](https://img.shields.io/badge/Gitter-CHAT%20NOW-brightgreen.svg?style=flat)](https://gitter.im/faktiva/prestashop-clean-urls)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/faktiva/prestashop-clean-urls.svg?style=social)](https://twitter.com/intent/tweet?text=Fantastic+@PrestaShop+module+"%23Faktiva+Clean+URLs"&url=https://github.com/faktiva/prestashop-clean-urls)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YF3R37RLY85CU&lc=IT&item_name=faktiva&item_number=GitHub%2dprestashop%2dclean%2durls&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 ____
 
 **Makes possible to have URLs with no IDs in PrestaShop.**
